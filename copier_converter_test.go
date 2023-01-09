@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jinzhu/copier"
+	"github.com/archiexxx/copier"
 )
 
 func TestCopyWithTypeConverters(t *testing.T) {
